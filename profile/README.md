@@ -1,170 +1,88 @@
-# <div align="center" style="font-size: 3em; font-weight: bold; color: #1a73e8; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);">🌟 **Welcome to Keplor** 🌟</div>
-
+<!-- Keplor GitHub Profile README -->
+<!-- Overview Section -->
 <div align="center">
-    <img src="https://keplor.com/assets/keplor-logo.png" alt="Keplor Logo" width="250" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease;">
-</div>
-
----
-
-## <div align="center" style="font-size: 2em; font-weight: bold; color: #4CAF50;">Innovating Business Solutions with Cutting-Edge Technology</div>
-
+    <h3>Keplor – Your Trusted Partner in AI/ML and Custom Software Solutions for Businesses</h3>
+    <p>Revolutionizing industries with robust cloud-native infrastructure, AI-driven insights, and tailored software solutions.</p>
+    <p align="center">
 <div align="center">
-    <h3>Your trusted partner in Cloud-Native Infrastructure, AI Solutions, and Enterprise Transformation</h3>
+    <img src="https://keplor.com/assets/keplor-header.png" alt="Keplor Header" />
 </div>
-
----
-
-<div align="center">
-    <a href="https://keplor.com" target="_blank">
-        <button style="background-color: #008CBA; color: white; border: none; padding: 15px 40px; font-size: 20px; font-weight: bold; cursor: pointer; border-radius: 5px; transition: background-color 0.3s ease; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);">
-            Explore Our Solutions
-        </button>
-    </a>
-</div>
-
----
-
-## 🌐 **About Keplor**
-
-Keplor is a **next-gen technology company** that specializes in transforming business processes with scalable, efficient, and secure cloud-native and AI solutions. We create **innovative platforms**, **custom enterprise applications**, and deliver **data-driven insights** to enable businesses to reach new heights.
-
----
-
-## 🚀 **Our Expertise**
-
-### 1. <div align="center" style="font-size: 1.5em; color: #FF5722;">☁️ **Cloud-Native Infrastructure**</div>
-
-Keplor’s cloud solutions help businesses scale seamlessly across multi-cloud environments, providing flexible, cost-efficient, and secure infrastructure strategies.
-
-- **Automated resource scaling**  
-- **Multi-cloud integration**  
-- **Cost and security optimization**
-
-<div align="center">
-    <a href="https://keplor.com/cloud-native" target="_blank">
-        <button style="background-color: #FF9800; color: white; border: none; padding: 12px 30px; font-size: 16px; cursor: pointer; border-radius: 5px; transition: background-color 0.3s ease;">
-            Discover Cloud-Native Solutions
-        </button>
-    </a>
-</div>
-
----
-
-### 2. <div align="center" style="font-size: 1.5em; color: #FF5722;">🤖 **AI-Driven Innovation**</div>
-
-Leverage Keplor’s **AI-powered solutions** to optimize your business decisions, enhance operational efficiency, and unlock insights in real-time.
-
-- **Smarter decision-making with predictive analytics**  
-- **Automated processes for increased efficiency**  
-- **Data-driven strategies for growth**
-
-<div align="center">
-    <a href="https://keplor.com/ai-driven" target="_blank">
-        <button style="background-color: #F44336; color: white; border: none; padding: 12px 30px; font-size: 16px; cursor: pointer; border-radius: 5px; transition: background-color 0.3s ease;">
-            Explore AI Solutions
-        </button>
-    </a>
-</div>
-
----
-
-### 3. <div align="center" style="font-size: 1.5em; color: #FF9800;">🏢 **Enterprise Solutions**</div>
-
-Our enterprise solutions integrate ERP, CRM, and data management tools with cutting-edge technologies to streamline operations and boost business agility.
-
-- **Integrated ERP and CRM solutions**  
-- **Advanced data processing**  
-- **Robust cybersecurity measures**
-
-<div align="center">
-    <a href="https://keplor.com/enterprise" target="_blank">
-        <button style="background-color: #4CAF50; color: white; border: none; padding: 12px 30px; font-size: 16px; cursor: pointer; border-radius: 5px; transition: background-color 0.3s ease;">
-            Learn About Our Enterprise Solutions
-        </button>
-    </a>
-</div>
-
----
-
-## 🎥 **Keplor in Action**
-
-Get a firsthand look at how Keplor’s technology solutions are revolutionizing businesses around the globe.
-
-<div align="center">
-    <a href="https://youtu.be/KEPLOR_EXAMPLE_VIDEO" target="_blank">
-        <img src="https://keplor.com/assets/video-thumbnail.png" alt="Keplor Demo Video" width="600" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s ease;">
-    </a>
-</div>
-
-<div align="center">
-    <p><em>Click to explore how Keplor's technology is reshaping industries.</em></p>
-</div>
-
----
-
-## 📈 **GitHub Repository Stats**
-
-### **Keplor GitHub Stats**
-
-<div align="center">
-    ![GitHub stars](https://img.shields.io/github/stars/keplor/keplor?style=social)
-    ![GitHub forks](https://img.shields.io/github/forks/keplor/keplor?style=social)
-    ![GitHub contributors](https://img.shields.io/github/contributors/keplor/keplor?color=green)
-</div>
-
----
-
-## 🛠️ **Join the Keplor Movement**
-
-Become part of the **Keplor community** and contribute to the future of technology and business innovation.
-
-### 💡 **How You Can Contribute:**
-
-- ⭐ **Star** the [Keplor Repository](https://github.com/keplor/)
-- 📝 **Contribute** on [GitHub](https://github.com/keplor/keplor)
-- 💬 **Join Weekly Community Meetings** ([Meetups](https://keplor.com/community-meetings))
-- 🎥 **Watch Past Sessions** ([YouTube Channel](https://www.youtube.com/keplor-channel))
-- 📂 **Access Exclusive Resources** ([Community Drive](https://drive.google.com/keplor-community-drive))
-
----
-
-## 📩 **Get in Touch**
-
-We would love to connect with you! Reach out for more information about our services, products, or general inquiries.
-
-- 📧 **Email**: [contact@keplor.com](mailto:contact@keplor.io)
-- 🌍 **Website**: [www.keplor.com](https://keplor.io)
-
----
-
-## 🌟 **Keplor in the Media**
-
-> "Keplor is redefining the future of business solutions with innovative cloud strategies and AI-driven applications."  
-— *Tech Innovators Magazine*
-
-> "Keplor’s commitment to delivering enterprise-grade solutions and driving technological innovation is truly remarkable."  
-— *Business Solutions Journal*
-
----
-
-## **Follow Us on Social Media**
-
-Stay connected and follow Keplor on our social media platforms to get the latest updates and news:
-
-- [Follow Keplor on Twitter](https://twitter.com/keplor)
-- [Join Keplor on Slack](https://keplor.slack.com)
-- [Subscribe to Keplor on YouTube](https://www.youtube.com/keplor-channel)
-- [Like Keplor on Facebook](https://www.facebook.com/keplor)
-
----
-
-## <div align="center" style="font-size: 2em; font-weight: bold; color: #2196F3;">👋 **Let’s Build the Future Together**</div>
-
-Keplor is not just a company, it’s a movement. Together, we’re shaping the future of business, innovation, and technology.
-
----
-
-<p align="center" style="font-size: 0.9em; color: #888;">© 2024 **Keplor Inc.** | <a href="https://keplor.com/privacy-policy">Privacy Policy</a> | <a href="https://keplor.com/terms">Terms of Service</a></p>
-<p align="center" style="font-size: 1em; color: #4CAF50;">
-    Made with <span style="color: red;">❤️</span> and <strong>PHP</strong> by the Keplor Team.
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=3498DB&center=true&vCenter=true&width=600&lines=Innovating+AI+and+Cloud+Technologies;Crafting+Scalable+Software+Solutions;Delivering+Custom+Business+Intelligence;Unlocking+Future+Possibilities+With+Tech" alt="Keplor Typing SVG">
 </p>
+</div>
+
+---
+
+## About Keplor
+Keplor is a cutting-edge technology company specializing in AI/ML and software solutions that drive transformation for organizations across industries such as cloud computing, research, and enterprise systems. Our expertise in scalable, secure, and efficient solutions empowers our clients to innovate and achieve their strategic goals.
+
+---
+
+## Key Features of Keplor
+<table width="100%" cellpadding="10">
+    <tr>
+        <td align="left" style="border-bottom: 1px solid #ddd;">
+            <h3>Cloud-Native Solutions</h3>
+            We offer advanced cloud infrastructure strategies tailored to meet specific business needs, ensuring seamless integration, scalability, and cost efficiency.
+        </td>
+    </tr>
+    <tr>
+        <td align="left" style="border-bottom: 1px solid #ddd;">
+            <h3>AI-Driven Insights</h3>
+            Our AI models provide predictive analytics and data-driven strategies, enabling organizations to make informed decisions with confidence.
+        </td>
+    </tr>
+    <tr>
+        <td align="left" style="border-bottom: 1px solid #ddd;">
+            <h3>Custom Software Development</h3>
+            We design and develop custom software solutions that align with the unique challenges and opportunities of your business.
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+            <h3>Data Security and Compliance</h3>
+            Our solutions adhere to the highest security standards, protecting your data and ensuring compliance with industry regulations.
+        </td>
+    </tr>
+</table>
+
+---
+
+## Why Choose Keplor?
+- **Proven Expertise**: A team with deep technical knowledge and hands-on experience in AI, cloud solutions, and software engineering.
+- **Custom Solutions**: Tailored strategies that align with the unique objectives of your business.
+- **Future-Focused**: We are committed to innovation, ensuring that our solutions remain at the forefront of technology.
+- **Collaborative Approach**: We work closely with your team to ensure seamless integration and outstanding results.
+
+---
+
+## See Keplor in Action
+<div>
+    <a href="https://youtu.be/sample-demo">
+        <img src="https://keplor.com/assets/interactive-demo-thumbnail.png" alt="Keplor Demo Video" width="100%" />
+    </a>
+</div>
+<p align="left">Explore our interactive demo to understand how Keplor solutions can drive your business forward.</p>
+
+---
+
+## Explore More
+<div align="left">
+    <a href="https://keplor.com#about-us" style="background-color: #007BFF; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none; display: inline-block;">Learn More About Us</a>
+    <a href="https://keplor.com/contact" style="background-color: #28A745; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none; display: inline-block; margin-left: 15px;">Get in Touch</a>
+</div>
+
+---
+
+## Contact Us
+Keplor HQ<br>
+123 Innovation Drive<br>
+Tech City, Innovate State, 45678<br>
+Email: contact@keplor.com<br>
+Phone: (123) 456-7890<br>
+
+---
+
+<div align="center">
+    Made with ❤️ by the Keplor Team
+</div>

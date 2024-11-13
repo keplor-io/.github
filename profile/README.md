@@ -75,11 +75,11 @@ Keplor is a cutting-edge technology company specializing in AI/ML and software s
 ---
 
 ## Contact Us
-Keplor HQ<br>
+Keplor.<br>
 123 Innovation Drive<br>
 Tech City, Innovate State, 45678<br>
 Email: contact@keplor.com<br>
-Phone: (123) 456-7890<br>
+Phone: (91) 76786-09018<br>
 
 ---
 

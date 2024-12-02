@@ -1,5 +1,3 @@
-# Keplor - AI/ML and Custom Software Solutions
-
 <div align="center">
     <h1>
         <img src="https://github.com/keplor-io/.github/blob/main/keplor.png" alt="Keplor Logo" width="100px" />

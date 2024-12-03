@@ -1,8 +1,8 @@
 <div align="center">
-    <h1>
-        <img src="https://github.com/keplor-io/.github/blob/main/keplor.png" alt="Keplor Logo" width="100px" />
-        <br>Keplor
-    </h1>
+    <!--<h1>-->
+        <img src="https://github.com/keplor-io/.github/blob/main/keplor-Banner.png" alt="Keplor Logo" width="auto" />
+        <!--<br>Keplor
+    </h1>-->
     <h3>Your Trusted Partner in AI/ML and Custom Software Solutions</h3>
     <p>We empower businesses to thrive in a technology-driven world with innovative tools, scalable software, and AI-driven insights.</p>
 </div>

@@ -15,12 +15,10 @@
 - [Why Choose Keplor?](#why-choose-keplor)
 - [Our Mission](#our-mission)
 - [Contact Us](#contact-us)
-- [Case Studies & Testimonials](#case-studies--testimonials)
 - [Technologies We Use](#technologies-we-use)<!--- [Careers at Keplor](#careers-at-keplor)    -->
 - [Follow Us](#follow-us)
 - [Roadmap](#keplor-roadmap)
 - [FAQs](#frequently-asked-questions)
-- [Awards and Recognitions](#awards-and-recognitions)
 - [Explore Our Work](#explore-our-work)
 
 ---
@@ -50,7 +48,7 @@ Keplor is a leading provider of AI/ML-driven custom software solutions, committe
 Our mission is to drive technological advancement and transformation for businesses worldwide by leveraging artificial intelligence, machine learning, and custom software development. We aim to make complex technologies accessible and usable for businesses of all sizes, helping them grow and adapt in an ever-evolving digital landscape.
 
 ---
-
+<!--
 ## Case Studies & Testimonials
 
 ### Case Study: AI-Powered Retail Solution
@@ -68,7 +66,7 @@ We helped an e-commerce platform migrate to a scalable cloud infrastructure, red
 — *Client Name, CTO of ShopNow*
 
 ---
-
+-->
 ## Technologies We Use
 Keplor leverages a diverse range of technologies to deliver cutting-edge solutions:
 
@@ -126,17 +124,6 @@ A: Absolutely! We specialize in integrating our solutions with your existing tec
 
 ---
 
-## Awards and Recognitions
-<!-- Comment: This section showcases your company's accomplishments and industry recognition, which helps build credibility and trust with potential clients. Including details of major awards and recognitions will establish Keplor as an authority in the field. -->
-
-- **Best AI Innovation** - Tech Innovators Summit 2023
-- **Top Cloud Solutions Provider** - Cloud Computing Excellence Awards 2022
-- **Leading AI Company** - Business Tech Magazine 2021
-
-These awards reflect our commitment to excellence and our leadership in AI/ML and cloud technologies.
-
----
-
 <!--## Our Clients & Partners
 We are proud to have worked with leading organizations across various industries.
 
@@ -149,6 +136,7 @@ Check out some of the innovative solutions we have delivered:
 
 - **AI-Powered Analytics Platform**: [View Demo](https://keplor.com/demo/ai-analytics)
 - **Custom Software Solutions**: [Check out our portfolio](https://keplor.com/portfolio)
+- **Open Source Projects**: [Check out our repositories](https://github.com/orgs/keplor-io/repositories)
 
 ---
 
@@ -156,7 +144,7 @@ Check out some of the innovative solutions we have delivered:
 Get in touch with us to learn more about how Keplor can help your business.
 
 - **Email**: [keplorio@gmail.com](mailto:contact@keplor.com)
-- **Phone**: +91 76786 09018
+- **Phone**: [+91 76786-09018](tel:+917678609018)
 - **Website**: [www.keplor.com](http://www.keplor.com)
 
 ---
